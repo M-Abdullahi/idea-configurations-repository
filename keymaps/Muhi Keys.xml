@@ -25,10 +25,11 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
-  <action id="ParameterInfo" />
-  <action id="ReformatCode">
+  <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="ReformatCode" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
