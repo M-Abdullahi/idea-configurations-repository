@@ -1,9 +1,5 @@
 <application>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="PHP" value="true" />
-      </map>
-    </option>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
   </component>
 </application>
