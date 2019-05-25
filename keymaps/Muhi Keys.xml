@@ -27,15 +27,14 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
-  </action>
-  <action id="ParameterInfo" />
-  <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="ReformatCode" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ShowFilterPopup" />
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
