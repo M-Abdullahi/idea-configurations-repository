@@ -33,10 +33,17 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="ShowFilterPopup" />
   <action id="Vcs.ReformatCommitMessage" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
