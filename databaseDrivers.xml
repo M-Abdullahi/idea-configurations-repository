@@ -39,10 +39,6 @@
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" version="5.1.47" />
@@ -64,14 +60,11 @@
       <artifact name="Oracle" use="true" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
       <artifact name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
+      <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <code-style-scheme-name>Default</code-style-scheme-name>
@@ -112,13 +105,9 @@
       <artifact name="ClickHouse" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="cassandra" name="?" driver-class="null">
+    <driver id="cassandra" name="">
       <artifact name="Cassandra" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
       <option name="auto-commit" value="true" />
