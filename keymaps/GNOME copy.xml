@@ -1,0 +1,10 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="IntroduceField" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ShowFilterPopup" />
+</keymap>
