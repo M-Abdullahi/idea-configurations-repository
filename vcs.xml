@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="muhi3849@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/WackyStudio/build-an-api-with-laravel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Code" />
   </component>
 </application>
