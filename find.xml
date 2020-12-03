@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Patient Management" />
+    <option name="defaultScopeName" value="Patient Management" />
+    <option name="SEARCH_SCOPE" value="Patient Management" />
   </component>
 </application>
