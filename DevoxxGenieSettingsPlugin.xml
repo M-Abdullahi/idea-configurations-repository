@@ -36,11 +36,11 @@
     </option>
     <option name="credentialsMigratedV1" value="true" />
     <option name="deepSeekEnabled" value="true" />
-    <option name="lastGlobalLanguageModel" value="deepseek-reasoner" />
+    <option name="lastGlobalLanguageModel" value="deepseek-chat" />
     <option name="lastGlobalProvider" value="DeepSeek" />
     <option name="lastSelectedLanguageModel">
       <map>
-        <entry key="cbcf2e54-ff42bc53-eb21-40c3-b751-9c7349062f1e" value="deepseek-reasoner" />
+        <entry key="cbcf2e54-ff42bc53-eb21-40c3-b751-9c7349062f1e" value="deepseek-chat" />
       </map>
     </option>
     <option name="lastSelectedProvider">
