@@ -1,0 +1,6 @@
+<application>
+  <component name="VajraSettings">
+    <option name="defaultModel" value="deepseek-v4-pro" />
+    <option name="defaultProvider" value="deepseek" />
+  </component>
+</application>
